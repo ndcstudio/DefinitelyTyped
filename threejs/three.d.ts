@@ -2471,7 +2471,7 @@ declare namespace THREE {
         envMapIntensity?: number;
         refractionRatio?: number;
         shading?: Shading;
-        blending: Blending;
+        blending?: Blending;
         wireframe?: boolean;
         wireframeLinewidth?: number;
         vertexColors?: Colors;
